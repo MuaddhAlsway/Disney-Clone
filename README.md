@@ -5,14 +5,8 @@
 
 
 
-## 🎥 Watch Project Demo
-![Demo](https://github.com/user-attachments/assets/ca248f6b-d0e7-4c57-858c-f6e252daa9cf)
-
-
-
-
-
-
+## 🎥 Live Demo
+### [Disney+ Clone](http://localhost:5173/)
 
 
 ## 🌟 Features
